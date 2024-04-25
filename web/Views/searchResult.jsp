@@ -1,9 +1,3 @@
-<%-- 
-    Document   : searchResult
-    Created on : Mar 13, 2024, 9:13:35 PM
-    Author     : PC
---%>
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <jsp:include page="head.jsp"/>

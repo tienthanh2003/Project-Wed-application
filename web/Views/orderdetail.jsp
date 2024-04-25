@@ -1,9 +1,3 @@
-<%-- 
-    Document   : orderdetail
-    Created on : Mar 16, 2024, 5:10:51 PM
-    Author     : PC
---%>
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>

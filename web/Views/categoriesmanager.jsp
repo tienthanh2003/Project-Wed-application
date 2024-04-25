@@ -1,9 +1,3 @@
-<%-- 
-    Document   : categoriesmanager
-    Created on : Apr 22, 2024, 12:43:25 PM
-    Author     : PC
---%>
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>

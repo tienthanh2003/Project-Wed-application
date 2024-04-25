@@ -1,9 +1,3 @@
-<%-- 
-    Document   : History
-    Created on : Apr 23, 2024, 7:52:49 PM
-    Author     : PC
---%>
-
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <!DOCTYPE html>

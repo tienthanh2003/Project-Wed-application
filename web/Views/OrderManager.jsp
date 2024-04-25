@@ -1,9 +1,3 @@
-<%-- 
-    Document   : OrderManager
-    Created on : Mar 16, 2024, 12:32:41 AM
-    Author     : PC
---%>
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
@@ -120,8 +114,8 @@
             </tbody>
         </table>
         <div>
-        <a class="back-link" href="admin">Trình quản lí</a>
-        <a class="back-link" href="home">Về trang chủ</a>
+            <a class="back-link" href="admin">Trình quản lí</a>
+            <a class="back-link" href="home">Về trang chủ</a>
         </div>
     </body>
 </html>

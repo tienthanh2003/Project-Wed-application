@@ -1,9 +1,3 @@
-<%-- 
-    Document   : detail
-    Created on : Mar 12, 2024, 7:53:07 AM
-    Author     : PC
---%>
-
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -13,7 +7,7 @@
         <title>Trang Chi Tiết</title>
         <link rel="stylesheet" href="css/style.css">
         <style>
-            
+
             .product-ad {
                 font-family: Arial, sans-serif;
                 max-width: 60%;
@@ -72,9 +66,9 @@
     </head>
     <body>
         <jsp:include page="head.jsp"></jsp:include>
-        <div id="wrapper">
-            <div class="product-ad">
-                <div class="product-image">
+            <div id="wrapper">
+                <div class="product-ad">
+                    <div class="product-image">
                     <c:if test="${not empty requestScope.detail}">
                         <div class="product-header">${requestScope.detail.name}</div>
                         <img src="${requestScope.detail.link}" style="width: 800px; height: 500px">

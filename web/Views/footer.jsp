@@ -1,9 +1,3 @@
-<%-- 
-    Document   : footer
-    Created on : Mar 14, 2024, 12:27:56 AM
-    Author     : PC
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <footer>
     <div style="background-color: #007BFF; margin-top: 40px; padding: 20px">

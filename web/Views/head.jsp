@@ -1,8 +1,3 @@
-<%-- 
-    Document   : start
-    Created on : Mar 14, 2024, 12:31:19 AM
-    Author     : PC
---%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="Models.User"%>
