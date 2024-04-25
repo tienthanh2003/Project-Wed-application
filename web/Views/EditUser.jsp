@@ -137,7 +137,7 @@
                     <tr>
                         <td><button type="submit">Lưu</button></td>
                         <td>
-                            <button type="button" onclick="location.href = 'usermanager'">Hủy</button>
+                            <button type="button" onclick="location.href = 'usermanager'">Cancer</button>
                         </td>
                     </tr>
                 </table>
