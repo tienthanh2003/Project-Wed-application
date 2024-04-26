@@ -97,7 +97,6 @@ public class AddBook extends HttpServlet {
         // Gọi phương thức thêm sách từ DAO
         DAO dao = new DAO();
         Book addedBook = dao.addBook(book);
-        request.setAttribute("message", "Add " + bookName + " successful!");
         response.sendRedirect("admin");
 
     }
