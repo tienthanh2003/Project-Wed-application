@@ -90,7 +90,7 @@ public class addCategories extends HttpServlet {
             request.setAttribute("error", "Không được để trống");
             request.setAttribute("categories", dao.getAllCategories());
         }
-        request.getRequestDispatcher("Views/categoriesmanager.jsp").forward(request, response);
+        request.getRequestDispatcher("categories").forward(request, response);
     }
 
     /**

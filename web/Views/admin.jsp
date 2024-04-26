@@ -65,7 +65,7 @@
 
                 <!-- Button to navigate to categories management page -->
                 <button onclick="location.href = 'categories'">Quản lí danh mục sách</button>
-            </div>
+            </div>                  
             <table>
                 <thead>
                     <tr>
